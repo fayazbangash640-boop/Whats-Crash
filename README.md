@@ -1,8 +1,7 @@
 
-<div align='center'>
- 
+<div align=div
  # Whats-Crash
- ![what-crash](https://github.com/user-attachments/assets/63cef334-ce5b-47bd-9e45-38d5761ddf4d)
+ ![what-crash](https://github.com/user-attachments/assets/63cef334-ce5b-47bd-9e45-38d5'center')
 
 </div>
 
